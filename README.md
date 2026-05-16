@@ -36,10 +36,9 @@ I enjoy building clean, modern, and user-friendly applications using Flutter.
 ## 📊 GitHub Stats
 
 <p align="center">
-
+  
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ameen-alavi&show_icons=true&theme=tokyonight" />
-
-
+  
 </p>
 
 
@@ -54,6 +53,12 @@ I enjoy building clean, modern, and user-friendly applications using Flutter.
 </p>
 
 ---
+## 📈 Contribution Graph
+
+[![Ameen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ameen-alavi&theme=tokyo-night)](https://github.com/ameen-alavi)
+
+---
+
 
 ## 🏆 GitHub Achievements
 
@@ -125,6 +130,8 @@ A two-way communication platform for radiographers and radiologists, supporting 
 
 ---
 
-<p align="center">
-✨ Always learning, always building ✨
-</p>
+## 💭 Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
