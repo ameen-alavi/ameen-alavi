@@ -14,12 +14,12 @@ I enjoy building clean, modern, and user-friendly applications using Flutter.
 
 ## 🚀 About Me
 
-* 🎓 MCA Student
-* 📱 Flutter Developer
-* 🎨 Love designing modern UIs
-* 🔗 Interested in API Integration & Backend Development
-* 🌱 Currently improving Flutter & Django skills
-* ⚡ I enjoy turning ideas into real applications
+* 🎓MCA Student
+* 🧑‍💻Flutter Developer
+* 🎨Love designing modern UIs
+* 🌐Interested in building applications and contributing to real-world projects
+* 📚Continuously improving Flutter & Django development skills
+* ⚡Love turning ideas into working applications
 
 ---
 
