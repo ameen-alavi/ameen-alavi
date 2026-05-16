@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ameen Alavi</h1>
-<h3 align="center">Flutter Developer | Building Cross-Platform Apps | Django Backend | REST APIs | SQL Server | GitHub | Firebase | State Management | Docker</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Flutter+Developer;Software+Engineer;Django+Developer" />
+</p>
+
+
+<h3 align="center">Flutter Developer | Building Cross-Platform Apps | Django Backend | REST APIs | SQL Server | GitHub</h3>
 
 <p align="center">
 I enjoy building clean, modern, and user-friendly applications using Flutter.
@@ -22,7 +27,7 @@ I enjoy building clean, modern, and user-friendly applications using Flutter.
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,django,sql,python,html,css,firebase,git,github,vscode,docker,xcode,jira,java,SQL,sqlserver,shell,androidstudio" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,django,python,html,css,firebase,git,github,vscode,docker,java,androidstudio" />
 
 </p>
 
@@ -32,11 +37,11 @@ I enjoy building clean, modern, and user-friendly applications using Flutter.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ameen-alavi&show_icons=true&theme=tokyonight&border_radius=10" height="180em"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ameen-alavi&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameen-alavi&layout=compact&theme=tokyonight&border_radius=10" height="180em"/>
 
 </p>
+
 
 ---
 
@@ -75,11 +80,12 @@ Modern Flutter portfolio website with responsive UI and smooth animations.
 ### 🏥 Nura App
 
 A health screening app that lets users view their medical reports, grade summaries, and book new screenings.
+
 ---
 ### 🚪 Nura QR App(OneDesk)
 
- Internal tool for guest check-ins/check-outs using wristband QR codes. Shows guest details and room status; includes manual entry and real-time status
- tracking.
+ Internal tool for guest check-ins/check-outs using wristband QR codes. Shows guest details and room status; includes manual entry and real-time status tracking.
+ 
 ---
 
 ### 📱 Task Management App
@@ -96,6 +102,7 @@ Shopping application with authentication, cart system, and API integration.
 ### 💬 Nura Insider App
 
 A two-way communication platform for radiographers and radiologists, supporting chat and file sharing.
+
 ---
 
 ## 🌐 Connect With Me
