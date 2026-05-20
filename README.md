@@ -87,7 +87,7 @@ Modern Flutter portfolio website with responsive UI and smooth animations.
 A health screening app that lets users view their medical reports, grade summaries, and book new screenings.
 
 ---
-### 🚪 Nura QR App(OneDesk)
+### 📲 Nura QR App(OneDesk)
 
  Internal tool for guest check-ins/check-outs using wristband QR codes. Shows guest details and room status; includes manual entry and real-time status tracking.
  
